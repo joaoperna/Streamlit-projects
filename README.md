@@ -1,9 +1,8 @@
 # Streamlit-projects
 
-Projetos desenvolvidos em streamlit
+Projetos desenvolvidos em streamlit  
 
-Templates de Fernando Amaral
-
+Templates de Fernando Amaral  
 Escola de Inteligência Artificial 
 ***
 ## 1. Valor Franquia
