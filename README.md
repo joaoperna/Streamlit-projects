@@ -1,6 +1,8 @@
 # Streamlit-projects
 
-Este repositório contém diversos projetos desenvolvidos com Streamlit
+Projetos desenvolvidos em streamlit
+Templates de Fernando Amaral
+Escola de Inteligência Artificial 
 ***
 ## 1. Valor Franquia
 
